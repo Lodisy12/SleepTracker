@@ -48,7 +48,7 @@ class SleepTrackerViewModel(
         initializeTonight()
     }
 
-    private fun initalizeTonight() {
+    private fun initializeTonight() {
         uiScope.launch {
         tonight.value = getTonightFromDatabase()
         }
