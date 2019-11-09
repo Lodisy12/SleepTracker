@@ -34,7 +34,7 @@ general I think I understand most of what's going on here.
 
 ## License
 
-Copyright 2019 <name>
+Copyright 2019 Joseph Lawter
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
